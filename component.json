@@ -1,0 +1,9 @@
+{
+  "name": "process",
+  "repo": "jmars/process",
+  "description": "Process component.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {}
+}
